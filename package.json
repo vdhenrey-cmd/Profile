@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "profile",
+=======
+  "name": "kixzspace",
+>>>>>>> 2c5db5649ed3f6f57ffc8427db7e9508402b3824
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {

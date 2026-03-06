@@ -1,11 +1,20 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "Profile",
     "slug": "Profile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "profile",
+=======
+    "name": "KixzSpace",
+    "slug": "KixzSpace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "kixzspace",
+>>>>>>> 2c5db5649ed3f6f57ffc8427db7e9508402b3824
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,53 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# React Native Profile Page Assignment
+
+## Objective
+Create a **Profile Page** using **React Native + TypeScript**. Your page should include:
+
+- Profile picture (local asset in `assets/`)
+- Name and bio
+- Sections: About, Interests, Courses
+- Scrollable layout using `ScrollView`
+- Reusable components (optional but recommended)
+
+---
+
+## Instructions
+
+### 1. Fork the Repository
+- Click **Fork** at the top-right corner to create your copy of this repo in your account.
+
+### 2. Clone Your Fork
+```bash
+git clone https://github.com/kayepanaligan/rn-profile-page-activity.git
+cd rn-profile-assignment
+bash
+```
+
+## Install Dependencies
+ `  npm install`
+
+## Create a New Branch
+Name the branch using your full name or student ID:
+  ` git checkout -b student-name`
+
+## Develop Your Profile Page
+
+- Modify App.tsx or src/screens/Home.tsx
+- Add your local profile picture in assets/pic.jpg
+- Use ScrollView for vertical scrolling
+- Apply Flexbox for layout and styling
+
+## Develop Your Profile Page
+  ` npx expo start`
+
+
+
+
+   
+
+
+>>>>>>> 2c5db5649ed3f6f57ffc8427db7e9508402b3824
